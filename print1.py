@@ -5,5 +5,5 @@
 
 
 def print1() :
-    print('와...')
+    print('와 재밌다!')
 
